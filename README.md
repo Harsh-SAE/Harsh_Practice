@@ -1,2 +1,2 @@
 # Harsh_Practice
-This is advanced practice for git
+This is advanced practice(s) for git
